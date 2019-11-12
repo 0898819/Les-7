@@ -1,0 +1,150 @@
+body{
+   margin: 0 auto;
+   overflow-x:hidden;
+   background-color:#495D85;
+}
+
+
+
+h1{
+    font-family:'Oswald', sans-serif;
+    color: white;
+    font-size: 72pt;
+    text-align: center;
+    
+}
+
+h3{
+    font-family:'Oswald', sans-serif;
+    color: white;
+    font-size: 40pt;
+    text-align: center;
+    opacity: 70%;
+    
+}
+    
+#block-01{
+    width: 100%;
+    height: 90vh;
+    background-color: #495D85;
+}
+
+.profielfoto{
+width: 20%;
+height:40%;
+background-image:url(Knipsel.PNG);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-color: white;
+border-radius: 100%;
+margin:0 auto; 
+
+}
+.titel{
+    margin-top: -2%;
+
+}
+
+.opdracht{
+    margin: 0;
+
+}
+
+
+#block-02{
+    width: 100%;
+    height: 90vh;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+}
+
+.contenttitel{
+    opacity: 70%;
+    width: 50%;
+    height: 100%;
+    background-color: white;
+    font-family:'Oswald', sans-serif;
+    font-size: 60pt;
+    color:#495D85;
+    text-align: center;
+}
+.content{
+    width: 50%;
+    height: 100%;
+    font-family: 'roboto';
+    color:#495D85;
+}
+
+.contentcontainer{
+    width: 70%;
+    margin: 0 auto; 
+    margin-top: 40%;
+}
+
+#block-03{
+    width: 100%;
+    height: 90vh;
+    background-color: #495D85;
+    display: flex;
+    flex-direction: row;
+}
+
+.contenttitelblauw{
+    opacity: 70%;
+    width: 50%;
+    height: 100%;
+    background-color: #495D85;
+    font-family:'Oswald', sans-serif;
+    font-size: 60pt;
+    color:white;
+    text-align: center;
+}
+.contentblauw{
+    width: 50%;
+    height: 100%;
+    font-family: 'roboto';
+    color:white;
+    
+}
+
+.contentcontainerblauw{
+    width: 70%;
+    margin: 0 auto; 
+    margin-top: 40%;
+}
+
+#block-04{
+    width: 100%;
+    height: 90vh;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+}
+ 
+.contenttitellast{
+    opacity: 70%;
+    width: 50%;
+    height: 100%;
+    background-color: white;
+    font-family:'Oswald', sans-serif;
+    font-size: 60pt;
+    color:#495D85;
+    text-align: center;
+}
+.contentlast{
+    width: 50%;
+    height: 100%;
+    font-family: 'roboto';
+    color:#495D85;
+    
+}
+
+.contentcontainerlast{
+    width: 70%;
+    margin: 0 auto; 
+    margin-top: 40%;
+    color:#495D85;
+    
+}
